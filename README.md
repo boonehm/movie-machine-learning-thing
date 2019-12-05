@@ -5,8 +5,11 @@ IMdB project for machine learning.
 # Contact information
 
 Sam Knight
+
 Justin Reel
+
 Christopher Wilson
+
 Data Source - https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
 # Introduction
@@ -22,20 +25,27 @@ This was not a difficult task, conceptually, but the original two designs took r
 # Mining / learning from the data
 
 o Describe the process you used to mine the data, or learn patterns from it. What algorithms did you try, why did you try them? What parameters did you use and why?
+
 o Make sure to discuss different things you tried along the way, even if they resulted in dead ends.
+
 o Highlight challenges you faced and how you overcame them.
 
 # Results
 
 o Present the results that you obtained from the work done in the previous sections.
+
 o Include graphs and charts to support your findings. (Don't forget to include proper titles, axis labels, etc. for all graphs)
 Conclusions (including business takeaways and action items)
+
 o Describe why your results could be of value to a business or stakeholder in your area. What would they know or what could they do differently as a result of your work.
+
 o Explain why your results constitute something "interesting."
+
 o Don't forget to discuss potential limitations or ethical issues.
 
 # Lessons Learned
 
 o What did you learn from this project?
+
 o What would you do differently if you could start this project again?
 
